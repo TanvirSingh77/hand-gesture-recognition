@@ -1,0 +1,12 @@
+# Core dependencies
+numpy==1.24.3
+
+# Computer Vision
+opencv-python==4.8.1.78
+
+# Hand/Pose Detection
+mediapipe==0.10.9
+
+# Deep Learning
+tensorflow==2.14.0
+
